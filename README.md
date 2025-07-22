@@ -21,13 +21,13 @@ Simple and responsive web interface built with Streamlit
 
 Accepts user input and displays the predicted language instantly
 
----
+
 
 ## 🧠 What It Does
 
 This web app allows users to enter any sentence, and it predicts the **language** it belongs to, based on training data. It does this without understanding the meaning — purely by analyzing word patterns and frequency.
 
----
+
 
 ## 🚀 Tech Stack
 
